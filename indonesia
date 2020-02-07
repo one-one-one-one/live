@@ -1,3 +1,64 @@
+#EXTM3U
+
+#EXTINF:- ,Indosiar
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:- ,RCTI
+https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
+#EXTINF:- ,TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:- ,SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:- ,ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:- ,GTV
+https://live.rctiplus.id/rctiplus/gtv_540p.m3u8
+#EXTINF:- ,iNews
+https://live.rctiplus.id/rctiplus/inews_540p.m3u8
+#EXTINF:- ,TVRI
+https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_66000_eng=5.m3u8
+#EXTINF:- ,TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:- ,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:- ,Metro TV
+https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+#EXTINF:- ,MNC TV
+https://anevia114.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Entertainment
+https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,BeritaSatu
+https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_66000_eng=3.m3u8
+#EXTINF:- ,VisionPrime
+https://anevia114.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=6-mp4a_66000_eng=3.m3u8
+#EXTINF:- ,KidsTV
+https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,BeSmart
+https://anevia114.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Muslim TV
+https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+#EXTINF: -, MU TV
+https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Qur'an
+https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem-avc1_1000000=11-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Tawaf TV
+https://anevia114.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Life TV
+https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,MNCNews
+https://anevia114.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,MNCChannel
+https://anevia114.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Music TV
+https://anevia114.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Mnc Sport
+https://anevia114.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=9-mp4a_66000_eng=5.m3u8
+#EXTINF:- ,Mnc Sport 2
+https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+#EXTINF:- ,Dangdut
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b420000.m3u8
+#EXTINF:- ,LifeStyle
+https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
 ########## NASIONAL ########### 
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="NASIONAL",RCTI
