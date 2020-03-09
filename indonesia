@@ -5,10 +5,10 @@
 #EXTINF:-1 group-title="USEETV GO",LIGA SHOPEE
 https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w934955_b894100_sleng.m3u8?enc=dou6is9OQCwiuy85ACHpDA&exp=1583761617
 
-#EXTINF:-1 group-title="USEETV GO",BEIN 1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="USEETV GO",BEIN 1
 https://edgejt6.useetv.com/joss/17/bein1/chunklist_w552720407_b8128000_sleng.m3u8?enc=TvBwegRXTAmZWjfccCzTyA&exp=1583754247
 
-#EXTINF:-1 group-title="USEETV GO",BEINS 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="USEETV GO",BEINS 2
 https://cdnkbl1.useetv.com/joss/17/bein2/chunklist_w755737512_b1344100_sleng.m3u8?enc=_nYW83M99btuTMvPuBQS_g&exp=1583754321
 
 #EXTINF:-1 group-title="USEETV GO",USEE SPORT
