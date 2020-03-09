@@ -11,10 +11,10 @@ https://edgejt6.useetv.com/joss/17/bein1/chunklist_w552720407_b8128000_sleng.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="USEETV GO",BEINS 2
 https://cdnkbl1.useetv.com/joss/17/bein2/chunklist_w755737512_b1344100_sleng.m3u8?enc=_nYW83M99btuTMvPuBQS_g&exp=1583754321
 
-#EXTINF:-1 group-title="USEETV GO",USEE SPORT
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="USEETV GO",U SPORT1
 https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w934955_b1344100_sleng.m3u8?enc=cLwXI5LiivIYdoSxbj0a7A&exp=1583754134
 
-#EXTINF:-1 group-title="USEETV GO",USEETV2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="USEETV GO",U SPORT2
 https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sleng.m3u8?enc=7p7TThp8XVXiuIrFE69gpA&exp=1583754190
 
 #EXTINF:-1 group-title="USEETV GO",USEE PHOTO
