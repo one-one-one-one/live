@@ -33,7 +33,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="USEETV GO",DISCOVERY
 https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="USEETV GO",CGTN
+http://210.210.155.35/session/118f2efc-6218-11ea-944b-8101a840aeb2/qwr9ew/s/s20/02.m3u8
 
 #EXTINF:- ,Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
