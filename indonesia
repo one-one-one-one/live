@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF : -, USEETV2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sleng.m3u8?enc=7p7TThp8XVXiuIrFE69gpA&exp=1583754190
 #EXTINF:- ,Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:- ,RCTI
