@@ -36,6 +36,22 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="USEETV GO",CGTN
 http://210.210.155.35/session/118f2efc-6218-11ea-944b-8101a840aeb2/qwr9ew/s/s20/02.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="USEETV GO",FOX2
+http://160.119.77.50/iptv/hd-foxsports2eng.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="USEETV GO",FOX3
+http://160.119.77.50/iptv/hd-foxsports3eng.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="USEETV GO",EGG
+http://edge.linknetott.swiftserve.com/channelgroup5/cg523production/ch319/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="USEETV GO",CHAMPION1
+https://etslive-2-vidio-com.akamaized.net/exp=1583778068~acl=/hls-p/ingest_geo_6685_*/*~hmac=fd302a3d7d46765519e0a6bd08061eb69bbddbe7938d1821e807547a10f87de7/hls-p/ingest_geo_6685_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="USEETV GO",CHAMPION2
+https://etslive-2-vidio-com.akamaized.net/exp=1583778113~acl=/hls-p/ingest_geo_6686_*/*~hmac=894253bf529a057e869eecabd85c9dcdb23ad4f5c7fd2701c4e0ab73b5d8f5ae/hls-p/ingest_geo_6686_720p/index.m3u8
+
 #EXTINF:- ,Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:- ,RCTI
