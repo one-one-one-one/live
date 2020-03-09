@@ -1,13 +1,17 @@
 #EXTM3U
 
-#EXTINF: -, BEIN1
+#EXTINF: -,BEINS1
 https://edgejt6.useetv.com/joss/17/bein1/chunklist_w552720407_b8128000_sleng.m3u8?enc=TvBwegRXTAmZWjfccCzTyA&exp=1583754247
-#EXTINF: -, BEIN2
+#EXTINF: -,BEINS2
 https://cdnkbl1.useetv.com/joss/17/bein2/chunklist_w755737512_b1344100_sleng.m3u8?enc=_nYW83M99btuTMvPuBQS_g&exp=1583754321
-#EXTINF: -, USEE SPORT
+#EXTINF: -,USEE SPORT
 https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w934955_b1344100_sleng.m3u8?enc=cLwXI5LiivIYdoSxbj0a7A&exp=1583754134
-#EXTINF : -, USEETV2
+#EXTINF : -,USEETV2
 https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sleng.m3u8?enc=7p7TThp8XVXiuIrFE69gpA&exp=1583754190
+#EXTINF: -,USEE PHOTO
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876105~exp=9007200829617096~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=0a42a9a144b41fd19c01b7e7e46558ea26eb3de0b13d02c9aa84a2e5e39dfb43
+#EXTINF: -,USEE PRIME
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876087~exp=9007200829617078~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=19f366328dc6b5d07e27ee63f724102a88d77962aef4985e1e91f303feed62f4
 #EXTINF:- ,Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:- ,RCTI
