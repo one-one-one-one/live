@@ -63,7 +63,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:- ,SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small.png" ,ANTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" ,ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:- ,GTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
@@ -71,11 +71,11 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 https://live.rctiplus.id/rctiplus/inews_540p.m3u8
 #EXTINF:- ,TVRI
 https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_66000_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small.png",TransTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small.png" ,Trans7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" ,Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small.png" ,Metro TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" ,Metro TV
 https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
 #EXTINF:- ,MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
