@@ -92,7 +92,7 @@ http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/20.ts
 #EXTVLCOPT:network-caching=1000
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/927.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_dunialain_small.png?v=2.0.0.13" group-title="A. Local Channel", Dunia Lain
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="A. Local Channel", Dunia Lain
 #EXTVLCOPT:network-caching=1000
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/230.ts
 
